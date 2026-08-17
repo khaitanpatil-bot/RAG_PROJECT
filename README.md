@@ -71,8 +71,8 @@ ChatMistralAI (mistral-small-2506) ──► Answer + cited sources
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+    git clone https://github.com/khaitanpatil-bot/RAG_PROJECT.git
+    cd RAG_PROJECT
    ```
 
 2. **Create a virtual environment** (recommended)
