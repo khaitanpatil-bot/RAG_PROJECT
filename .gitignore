@@ -1,0 +1,17 @@
+# Environment variables
+.env
+
+# Vector store (regenerated from uploaded PDFs)
+chroma_db/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
