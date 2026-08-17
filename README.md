@@ -2,6 +2,8 @@
 
 A Retrieval-Augmented Generation (RAG) application that lets you upload a PDF and ask natural-language questions about its content. Built with LangChain, ChromaDB, HuggingFace embeddings, and Mistral AI, with an interactive Streamlit interface.
 
+![App Screenshot](screenshots/app.png)
+
 ## ✨ Features
 
 - **📤 Upload any PDF** directly through the browser — no manual file placement needed
